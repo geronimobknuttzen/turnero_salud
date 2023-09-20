@@ -1,9 +1,9 @@
 # Turnero para Centro de Salud
 1. Requisitos Funcionales
-  Gestión de Turnos:
-    a. Permitir a los clientes programar turnos para consultas médicas.
-    b. Mostrar un calendario de turnos agendados.
-    c. Mostrar calendario de vacunación.
+  a. Gestión de Turnos:
+    I. a. Permitir a los clientes programar turnos para consultas médicas.
+    II. b. Mostrar un calendario de turnos agendados.
+    III. c. Mostrar calendario de vacunación.
 
   Lista de Especialidades Disponibles:
     a. Mostrar que especialistas atienden cada día
